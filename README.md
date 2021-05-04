@@ -10,3 +10,5 @@ against potential losses. Here, Coca-cola (KO) and PepsiCo (PEP) were chosen as 
 they’re in the same industry space. The spread was
 found to be mean reverting, which is an expected behavior for potential pairs. However, it was found that
 KO and PEP are not cointegrated.
+
+![Spread Forecast](Images/forecast.png)
